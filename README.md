@@ -58,8 +58,7 @@ Scripts, tools and experiments from my day-to-day work in cloud and infrastructu
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonas-nilsson-3859b291)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-nilsson-3859b291)
 ---
 
 <div align="center">
